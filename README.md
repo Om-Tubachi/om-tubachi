@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on my development skills<br>🌱 I’m currently learning web technologies and frameworks
 
 
